@@ -1,13 +1,13 @@
 <h1 align="center">
-  👋 ¡Hola! Soy <span style="color: #FF7F11;">[Maria Alejandra Ortiz]</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Maria+Alejandra+Ortiz+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  🎯 <span style="color: #3178C6;">Estudiante de Análisis y Desarrollo de Software</span> | <span style="color: #E0234E;">SENA CDA</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=700&lines=Estudiante+de+An%C3%A1lisis+y+Desarrollo+de+Software;Full+Stack+Junior;Apasionada+por+la+Innovaci%C3%B3n+%F0%9F%9A%80" alt="Profesiones animadas"/>
 </h3>
 
 <p align="center">
-  <b>💻 Desarrollador Full-Stack Junior| 🚀 Apasionado por la innovación</b>
+  <b>💻 Desarrollador Full-Stack Junior | 🚀 Apasionado por la innovación</b>
 </p>
 
 <div align="center">
