@@ -1,10 +1,15 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=¡Hola!+Soy+[Maria Alejandra Ortiz]&fontSize=30&fontColor=fff&animation=fadeIn" />
+  👋 ¡Hola! Soy <span style="color: #FF7F11;">[Maria Alejandra Ortiz]</span>
 </h1>
 
 <h3 align="center">
-  🎯 Estudiante ADSO | SENA CDA| 💻 Desarrollador Full-Stack Junior
+  🎯 <span style="color: #3178C6;">Estudiante de Análisis y Desarrollo de Software</span> | <span style="color: #E0234E;">SENA CDA</span>
 </h3>
+
+<p align="center">
+  <b>💻 Desarrollador Full-Stack Junior| 🚀 Apasionado por la innovación</b>
+</p>
+
 <div align="center">
   
 ![Animación](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
