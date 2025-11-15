@@ -1,6 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=27&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+[Maria Alejandra Ortiz];Estudiante+ADSO+%7C+SENA;Desarrollador+Full-Stack+Junior💻" alt="Typing Animation" />
+  👋 ¡Hola! Soy <span style="color: #FF7F11;">[Maria Alejandra Ortiz]</span>
 </h1>
+
+<h3 align="center">
+  🎯 <span style="color: #3178C6;">Estudiante de Análisis y Desarrollo de Software</span> | <span style="color: #E0234E;">SENA CDA</span>
+</h3>
+
+<p align="center">
+  <b>💻 Desarrollador Full-Stack Junior| 🚀 Apasionado por la innovación</b>
+</p>
+
+<div align="center">
+  
+![Animación](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
 <p align="center">
   <b>Transformando ideas en código innovador</b>
 </p>
