@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+[Maria Alejandra Ortiz];Estudiante+ADSO+%7C+SENA CDA;Desarrollador+Full-Stack+Junior💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=27&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+[Maria Alejandra Ortiz];Estudiante+ADSO+%7C+SENA;Desarrollador+Full-Stack+Junior💻" alt="Typing Animation" />
 </h1>
-
 <p align="center">
   <b>Transformando ideas en código innovador</b>
 </p>
