@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=700&lines=Estudiante+de+An%C3%A1lisis+y+Desarrollo+de+Software;Full+Stack+Developer+Junior;Apasionada+por+la+Innovaci%C3%B3n+%F0%9F%9A%80" alt="Profesiones animadas"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=700&lines=Tecnologa+en+An%C3%A1lisis+y+Desarrollo+de+Software;Full+Stack+Developer+Junior;Apasionada+por+la+Innovaci%C3%B3n+%F0%9F%9A%80" alt="Profesiones animadas"/>
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 # 👩‍💻 Sobre mí
 
-🎓 Estudiante de **Análisis y Desarrollo de Software en el SENA**  
+🎓 Tecnologa en **Análisis y Desarrollo de Software**  
 💡 Apasionada por el **desarrollo web, la innovación y la creación de soluciones tecnológicas**  
 🚀 Me enfoco en el desarrollo **Full Stack**, creando aplicaciones completas desde el frontend hasta el backend.
 
@@ -116,8 +116,8 @@ Desarrollo de un videojuego interactivo implementando lógica de juego, interacc
 
 🔭 Trabajando en **mi proyecto de grado Full Stack**  
 🌱 Aprendiendo **arquitectura de software y bases de datos avanzadas**  
-💡 Interesada en **desarrollo web, apps móviles y videojuegos**  
-🎓 Tecnóloga en formación en **Análisis y Desarrollo de Software**
+💡 Interesada en **desarrollo web, apps móviles, automatizaciones y videojuegos**  
+🎓 Tecnóloga en **Análisis y Desarrollo de Software**
 
 ---
 
